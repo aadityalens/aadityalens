@@ -8,10 +8,6 @@
 
 <br/>
 
-👨‍💻 I’m currently working on `fuxsanctuary.py`, a cyber-security swiss-knife built especially for Termux users, inspired by the show Mr.Robot.
-
-🚀 Working on [Jericho](https://www.rocketryindia.in/jericho) - an amateur rocket with a planned apogee of 1KM.
-
 🏢 World Building. Embarked on a project ✈ revolutionizing virtual aviation & music 💿 and 💻 providing tactical digital consulting titled ["IntellX"](https://www.intellx.in)
 
 💼 Providing Digital Enterprise Resource Planning "ERP" Solutions to Multi-National Corporate Clients.
